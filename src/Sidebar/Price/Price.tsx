@@ -1,4 +1,4 @@
-import Input from "@/e-com/components/Input";
+import Input from "@/components/Input";
 import "./Price.css";
 
 type Props = {
